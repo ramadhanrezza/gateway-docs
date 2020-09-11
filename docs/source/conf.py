@@ -18,12 +18,12 @@ sys.setrecursionlimit(1500)
 
 # -- Project information -----------------------------------------------------
 
-project = 'Gateway Docs'
+project = 'GatewayApi'
 copyright = '2020, Rezza'
 author = 'Rezza'
 
 # The full version, including alpha/beta/rc tags
-release = '1.0.1'
+release = '0.0.1'
 
 
 # -- General configuration ---------------------------------------------------
@@ -32,7 +32,7 @@ release = '1.0.1'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-	'rinoh.frontend.sphinx'
+    'rinoh.frontend.sphinx'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
