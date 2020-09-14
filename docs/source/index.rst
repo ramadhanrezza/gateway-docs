@@ -1,17 +1,12 @@
-Welcome to Gateway Docs's documentation!
+Gateway API
 ========================================
-
-
-Header
-======
-
-Guide
-^^^^^
 
 
 .. toctree::
    :includehidden:
    :maxdepth: 2
 
+
+   overview.rst
    license.rst
    help.rst
