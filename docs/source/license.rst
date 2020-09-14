@@ -1,6 +1,10 @@
 License
 =======
 
+.. toctree::
+   :includehidden:
+   :maxdepth: 2
+
 MIT License
 
 Copyright (c) 2020 PT. IIJ Global Solution Indonesia

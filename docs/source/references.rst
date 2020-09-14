@@ -1,5 +1,5 @@
-Help
-====
+API References
+==============
 
 .. toctree::
    :includehidden:

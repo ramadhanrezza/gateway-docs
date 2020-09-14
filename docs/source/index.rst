@@ -1,6 +1,11 @@
-Gateway API
-========================================
+IIJGSI API GATEWAY
+==================
 
+.. include:: ../../README.rst
+   :end-before: end-of-readme-intro
+
+Table of contents
+=================
 
 .. toctree::
    :includehidden:
@@ -8,5 +13,7 @@ Gateway API
 
 
    overview.rst
+   references.rst
+   getting-started.rst
    license.rst
    help.rst

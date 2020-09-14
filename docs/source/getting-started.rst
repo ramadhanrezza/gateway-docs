@@ -1,5 +1,5 @@
-Help
-====
+Getting Started
+===============
 
 .. toctree::
    :includehidden:
