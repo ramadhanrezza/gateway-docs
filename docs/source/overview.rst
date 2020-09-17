@@ -1,10 +1,9 @@
 Overview
-========
+########
 
 .. toctree::
    :includehidden:
-   :maxdepth: 2
+   :maxdepth: 4
 
 .. include:: ../../README.rst
-   :start-after: end-of-readme-intro
    :end-before: end-of-readme-usage
