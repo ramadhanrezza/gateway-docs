@@ -50,4 +50,4 @@ For a quick introduction to IIJGSI API Gateway, see the following topics:
 
 - `Getting Started with IIJGSI API Gateway <https://gateway-docs.readthedocs.io/en/latest/getting-started.html>`_
 
-.. end-of-readme-usage
+.. end-of-readme-usage edit
